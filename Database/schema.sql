@@ -180,8 +180,4 @@ CREATE TABLE BookAuthor (
     PRIMARY KEY (BookISBN, Author)
 );
 
-CREATE INDEX isbn_index ON Stock(BookISBN);
-CREATE INDEX date_index_online ON OnlinePurchase(Date);
-CREATE INDEX date_index_offline ON OfflinePurchase(Date);
-
 
