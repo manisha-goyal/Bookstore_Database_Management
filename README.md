@@ -13,7 +13,7 @@ This project encompasses the design and implementation of a comprehensive databa
 ## Technologies Used
 - SQL for database design and operations.
 - MySQL and GCP for database management.
-- Java and Flask for the application.
+- Python and Flask for the application.
 - Machine learning (scikit-learn) for the predictive model.
 
 This README offers a snapshot of the project. For more detailed instructions and comprehensive information, please refer to the documentation provided in the project repository.
